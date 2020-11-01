@@ -7,7 +7,9 @@ The Web app show how many people are infected, recovered and dead through Covid-
 Some of the dependencies that you need to install to run this App are :
 
 npm install --save axios react-chartjs-2 react-countup classnames
+
 npm install @material-ui/core
+
 npm install --save chart.js
 
 Install them in the folder using Npm command to run the Web App. 
